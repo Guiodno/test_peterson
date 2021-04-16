@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    margin-top: 2%;
+
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li{
+    display: table-cell;
+    vertical-align: middle;
+    padding-right: 10px;
+}
